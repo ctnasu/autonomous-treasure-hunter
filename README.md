@@ -20,4 +20,5 @@ GAME SCREEN
 
 GAME OVER SCREEN
 
-<img width="686" alt="Ekran Resmi 2024-10-03 11 34 49" src="https://github.com/user-attachments/assets/bc8c12ab-7ea4-414a-a2cf-0c7d023390db">
+<img width="664" alt="335792929-ba3963c2-6df8-4cd5-93dd-c2a772ed6c4d-2" src="https://github.com/user-attachments/assets/3be0c738-bc59-4b7b-b78d-6d30779bc31e">
+
